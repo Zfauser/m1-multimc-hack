@@ -10,7 +10,7 @@ This repo contains a wrapper script to be used with [MultiMC](https://multimc.or
 
 First, install the [Zulu: 16.32.15 JDK for macOS ARM64](https://cdn.azul.com/zulu/bin/zulu16.32.15-ca-jdk16.0.2-macosx_aarch64.dmg).
 
-You'll also need a standard install of MultiMC.
+You'll also need a standard install of [MultiMC](https://files.multimc.org/downloads/mmc-stable-osx64.tar.gz).
 
 ### Clone this repo
 
